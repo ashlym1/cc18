@@ -6,8 +6,8 @@ function Greeting() {
       <h2>Hello from the Greeting Component!</h2>
       <p>This is your first custom component in React.
          Go and enjoy an iced matcha latte in this sunny weather ! </p>
-    </div>
-  );
-}
-
-export default Greeting;
+    </div> 
+      );
+    }
+    
+    export default Greeting;
