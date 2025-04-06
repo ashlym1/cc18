@@ -1,13 +1,14 @@
 import React from 'react';
-
+    // this fucntions creates a Greeting component 
 function Greeting() {
-  return (
+  return ( 
     <div>
       <h2>Hello from the Greeting Component!</h2>
       <p>This is your first custom component in React.
-         Go and enjoy an iced matcha latte in this sunny weather ! </p>
+                Good luck, happy coding ! </p>
     </div> 
       );
     }
     
-    export default Greeting;
+    export default Greeting; 
+     // exporting the component  to app.jsx 
